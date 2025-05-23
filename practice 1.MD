@@ -17,3 +17,4 @@ I'm a **passionate** *Data Analyst* with strong experience in Excel, SQL, Power 
 4.	SQL Querying
 
 [Linkedin](https://github.com/Kaosarat10/shopworld-inventory-optimization/blob/main/ShopWorld%20Gap%20Analysis.pdf)
+[AS-IS PROCESS](https://github.com/Kaosarat10/TEST/blob/main/Gear%20ltd%20sales%20analysis.png)
