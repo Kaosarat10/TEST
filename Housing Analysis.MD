@@ -15,3 +15,5 @@ I'm a **passionate** *Data Analyst* with strong experience in Excel, SQL, Power 
 2.	Dashboard Design
 3.	Data Storytelling
 4.	SQL Querying
+
+[Linkedin](https://github.com/Kaosarat10/shopworld-inventory-optimization/blob/main/ShopWorld%20Gap%20Analysis.pdf)
