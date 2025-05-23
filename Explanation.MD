@@ -66,3 +66,5 @@ You can:
 2. Click the pencil icon (edit)
 3. Make changes using Markdown
 4. Scroll down and click **Commit changes**
+
+[VISUAL](LINK)
