@@ -10,3 +10,8 @@ I'm a **passionate** *Data Analyst* with strong experience in Excel, SQL, Power 
 -	Dashboard Design
 -	Data Storytelling
 -	SQL Querying
+
+1 Data Cleaning
+2	Dashboard Design
+3	Data Storytelling
+4	SQL Querying
